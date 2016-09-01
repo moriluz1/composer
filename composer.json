@@ -1,0 +1,12 @@
+{
+    "name": "shayb/printer",
+    "authors": [
+        {
+            "name": "shayb",
+            "email": "shayb@jfrog.com"
+        }
+    ],
+    "require": {
+        "povils/figlet": "0.1.0"
+    }
+}
